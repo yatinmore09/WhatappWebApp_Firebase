@@ -9,6 +9,6 @@
 - Redux
 - Google Authentication
 
-Credit: Clever Programmer (Rocking Guys)
+
 
 Checkout detail for firebase setup here: https://youtu.be/pUxrDcITyjg 
